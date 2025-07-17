@@ -1,4 +1,4 @@
-package sonu.com.recursion;
+package src.sonu.com.recursion;
 
 public class LeanerSearch {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sonu.com.array;
+package src.sonu.com.array;
 
 import java.util.Arrays;
 import java.util.Scanner;

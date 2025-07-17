@@ -1,4 +1,4 @@
-package sonu.com.gfg;
+package src.sonu.com.gfg;
 
 import java.util.ArrayList;
 

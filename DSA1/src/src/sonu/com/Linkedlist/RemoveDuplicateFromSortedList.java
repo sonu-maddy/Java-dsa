@@ -1,10 +1,10 @@
-package sonu.com.Linkedlist;
+package src.sonu.com.Linkedlist;
 
 public class RemoveDuplicateFromSortedList {
 
 
-    private RemoveDuplicateFromSortedList.Node head;
-    private RemoveDuplicateFromSortedList.Node tail;
+    private Node head;
+    private Node tail;
     private int size;
 
     public RemoveDuplicateFromSortedList() {
@@ -13,20 +13,20 @@ public class RemoveDuplicateFromSortedList {
 
     private class Node{
         private int data;
-        private RemoveDuplicateFromSortedList.Node next;
+        private Node next;
 
         public Node(int data) {
             this.data = data;
         }
 
-        public Node(int data, RemoveDuplicateFromSortedList.Node next) {
+        public Node(int data, Node next) {
             this.data = data;
             this.next = next;
         }
     }
 
     public void display(){
-        RemoveDuplicateFromSortedList.Node temp = head;
+        Node temp = head;
         while (temp != null){
             System.out.print(temp.data + "-> ");
             temp = temp.next;
@@ -35,7 +35,7 @@ public class RemoveDuplicateFromSortedList {
     }
 
     public void insertFirst(int data){
-        RemoveDuplicateFromSortedList.Node node =new RemoveDuplicateFromSortedList.Node(data);
+        Node node =new Node(data);
         node.next = head;
         head =node;
 
@@ -51,7 +51,7 @@ public class RemoveDuplicateFromSortedList {
             insertFirst(val);
             return;
         }
-        RemoveDuplicateFromSortedList.Node node =new RemoveDuplicateFromSortedList.Node(val);
+        Node node =new Node(val);
         tail.next = node;
         tail = node;
         size++;

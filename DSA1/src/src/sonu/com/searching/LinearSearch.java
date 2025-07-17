@@ -1,4 +1,4 @@
-package sonu.com.searching;
+package src.sonu.com.searching;
 
 public class LinearSearch {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sonu.com.queue;
+package src.sonu.com.queue;
 
 public class IRDQQueue {
     private int[] dqueue;

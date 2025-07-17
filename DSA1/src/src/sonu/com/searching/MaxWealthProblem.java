@@ -1,4 +1,4 @@
-package sonu.com.searching;
+package src.sonu.com.searching;
 // https://leetcode.com/problems/richest-customer-wealth/
 public class MaxWealthProblem {
     public static void main(String[] args) {

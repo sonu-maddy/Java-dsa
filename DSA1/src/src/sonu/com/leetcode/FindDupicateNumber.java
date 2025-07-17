@@ -1,4 +1,4 @@
-package sonu.com.leetcode;
+package src.sonu.com.leetcode;
 
 public class FindDupicateNumber {
     public static void main(String[] args) {

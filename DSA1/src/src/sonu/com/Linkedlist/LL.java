@@ -1,4 +1,4 @@
-package sonu.com.Linkedlist;
+package src.sonu.com.Linkedlist;
 
 import org.w3c.dom.Node;
 

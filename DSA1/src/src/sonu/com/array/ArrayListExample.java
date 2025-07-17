@@ -1,5 +1,5 @@
 
-package sonu.com.array;
+package src.sonu.com.array;
 import java.util.ArrayList;
 import java.util.Scanner;
 

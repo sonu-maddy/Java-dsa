@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Program/CollegeTraining/CollegeTraining.iml" filepath="$PROJECT_DIR$/Java Program/CollegeTraining/CollegeTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA1/DSA1.iml" filepath="$PROJECT_DIR$/DSA1/DSA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dsaprogram/Dsaprogram.iml" filepath="$PROJECT_DIR$/Dsaprogram/Dsaprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Program/Java Oops/Java Oops.iml" filepath="$PROJECT_DIR$/Java Program/Java Oops/Java Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Program/Java Program.iml" filepath="$PROJECT_DIR$/Java Program/Java Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condition and loop/condition and loop.iml" filepath="$PROJECT_DIR$/condition and loop/condition and loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstprogram/firstprogram.iml" filepath="$PROJECT_DIR$/firstprogram/firstprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java basic program/java basic program.iml" filepath="$PROJECT_DIR$/java basic program/java basic program.iml" />
+    </modules>
+  </component>
+</project>

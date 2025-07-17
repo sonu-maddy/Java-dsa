@@ -1,4 +1,4 @@
-package sonu.com.Linkedlist;
+package src.sonu.com.Linkedlist;
 
 public class DLL {
 

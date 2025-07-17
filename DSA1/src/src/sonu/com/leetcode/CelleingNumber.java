@@ -1,4 +1,4 @@
-package sonu.com.leetcode;
+package src.sonu.com.leetcode;
 
 public class CelleingNumber {
     public static void main(String[] args) {

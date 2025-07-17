@@ -1,4 +1,4 @@
-package sonu.com.queue;
+package src.sonu.com.queue;
 
 import javax.print.attribute.standard.QueuedJobCount;
 

@@ -1,4 +1,4 @@
-package sonu.com.sorting;
+package src.sonu.com.sorting;
 
 
 import java.util.Arrays;

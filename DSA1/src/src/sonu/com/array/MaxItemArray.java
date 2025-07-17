@@ -1,4 +1,4 @@
-package sonu.com.array;
+package src.sonu.com.array;
 
 public class MaxItemArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sonu.com.sorting;
+package src.sonu.com.sorting;
 
 public class QuickSort {
     public static void main(String[] args) {

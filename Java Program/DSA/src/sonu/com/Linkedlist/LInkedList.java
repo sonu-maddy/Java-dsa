@@ -10,7 +10,18 @@ public class LInkedList {
         list.insertFirst(40);
         list.insertFirst(60);
         list.insertLast(80);
+        list.insert(56,3);
 
+        list.display();
+
+        System.out.println(list.deletefirst());
+
+        list.display();
+
+        list.deleteLast();
+        list.display();
+
+        System.out.println(list.delete(2));
         list.display();
     }
 }

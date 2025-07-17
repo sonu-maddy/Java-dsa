@@ -1,4 +1,4 @@
-package sonu.com.Linkedlist;
+package src.sonu.com.Linkedlist;
 
 public class DoublyLL {
     public static void main(String[] args) {

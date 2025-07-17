@@ -1,6 +1,6 @@
-package sonu.com.leetcode;
+package src.sonu.com.leetcode;
 
-import sonu.com.Linkedlist.DLL;
+//import sonu.com.Linkedlist.DLL;
 
 import java.util.LinkedHashMap;
 

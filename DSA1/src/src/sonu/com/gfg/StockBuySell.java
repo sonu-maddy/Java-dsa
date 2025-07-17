@@ -1,4 +1,4 @@
-package sonu.com.gfg;
+package src.sonu.com.gfg;
 
 public class StockBuySell {
     public static void main(String[] args) {

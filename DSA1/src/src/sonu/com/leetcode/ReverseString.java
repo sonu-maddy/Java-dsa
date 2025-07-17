@@ -1,4 +1,4 @@
-package sonu.com.leetcode;
+package src.sonu.com.leetcode;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

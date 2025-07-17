@@ -1,4 +1,4 @@
-package sonu.com.searching;
+package src.sonu.com.searching;
 
 // binary search always work on the sorting array.
 

@@ -1,4 +1,4 @@
-package sonu.com.gfg;
+package src.sonu.com.gfg;
 // kadane's algo..
 public class MaximumSubArraySum {
     public static void main(String[] args) {
